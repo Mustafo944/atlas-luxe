@@ -155,6 +155,8 @@ body {
 @media (max-width: 767px) {
   .hero_content .hero_cart {
     width: 100%;
+    height: -moz-max-content;
+    height: max-content;
   }
 }
 .hero_content .hero_cart .hero_top img {

@@ -134,6 +134,7 @@ body {
     overflow: hidden;
     @media (max-width: 767px) {
       width: 100%;
+      height: max-content;
     }
     .hero_top {
       img {

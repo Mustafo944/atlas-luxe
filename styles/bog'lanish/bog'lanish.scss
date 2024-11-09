@@ -6,7 +6,7 @@
 }
 .container {
   max-width: 1240px;
-  margin: auto;
+  margin: 0 ;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -47,6 +47,7 @@ body {
   }
   .nav_bottom {
     display: flex;
+    justify-content: center;
     height: 92px;
     background: #1a2031;
     flex-direction: column;
